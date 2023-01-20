@@ -11,11 +11,11 @@ HTTP, SOCKS4, SOCKS5 proxies scraper and checker.
 - Supports determining the geolocation of the proxy exit node.
 - Can determine if the proxy is anonymous.
 
-You can get proxies obtained using this script in [monosans/proxy-list](https://github.com/monosans/proxy-list).
+
 
 ## Installation and usage
 
-- Download and unpack [the archive with the program](https://github.com/monosans/proxy-scraper-checker/archive/refs/heads/main.zip).
+- Download and unpack [the archive with the program](https://github.com/BlankRoad1/proxy-scraper-checker/archive/refs/heads/main.zip).
 - Edit `config.ini` according to your preference.
 - Install [Python](https://python.org/downloads) (Windows 7 requires Python 3.8.X). During installation, be sure to check the box `Add Python to PATH`.
 - Install dependencies and run the script. There are 2 ways to do this:
@@ -40,7 +40,7 @@ Geolocation format is `ip:port|Country|Region|City`.
 
 ## Buy me a coffee
 
-Ask for details on [Telegram](https://t.me/monosans) or [VK](https://vk.com/id607137534).
+Ask for details on [Telegram](https://t.me/BlankRoad)
 
 ## License
 
